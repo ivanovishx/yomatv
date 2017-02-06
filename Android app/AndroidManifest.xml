@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.ilaty.pandatv"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="15"
+        android:targetSdkVersion="21" />
+
+    <!-- 震动权限 -->
+    <uses-permission android:name="android.permission.VIBRATE" />
+
+    <!-- 权限声明 -->
+    <!-- 允许挂载和反挂载文件系统 -->
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" />
+    <!-- 允许程序创建显示在其他程序之上，并且类型为TYPE_SYSTEM_ALERT的窗体 -->
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+    <!-- 允许程序向外部存储设备写数据 -->
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <!-- 允许程序打开网络套接字 -->
+    <uses-permission android:name="android.permission.INTERNET" />
+    <!-- 允许程序获取网络相关信息 -->
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <!-- 允许程序写音频数据 -->
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+    <!-- 允许程序使用PowerManager WakeLocks以防止处理器休眠或者屏幕锁屏 -->
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <!-- 允许程序获取Wifi网络状态信息 -->
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <!-- 允许程序使用设备的camera -->
+    <uses-permission android:name="android.permission.CAMERA" />
+    <!-- 允许程序使用闪光灯 -->
+    <uses-permission android:name="android.permission.FLASHLIGHT" />
+    <!-- 允许程序获得设备信息 -->
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <!-- 配置一个程序用于调试 -->
+    <uses-permission android:name="android.permission.SET_DEBUG_APP" />
+
+    <!-- 声明程序使用camera和自动对焦功能 -->
+    <uses-feature android:name="android.hardware.camera" />
+    <uses-feature android:name="android.hardware.camera.autofocus" />
+
+    <application
+        android:name=".system.TVApplication"
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@android:style/Theme.Black.NoTitleBar" >
+        <activity
+            android:name=".StartActivity"
+            android:label="@string/app_name"
+            android:theme="@android:style/Theme.Black.NoTitleBar.Fullscreen" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".BaseActivity"
+            android:label="@string/title_activity_base" >
+        </activity>
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/title_activity_main" >
+        </activity>
+        <activity
+            android:name=".ChannelActivity"
+            android:label="@string/title_activity_channel" >
+        </activity>
+        <activity
+            android:name=".MoreActivity"
+            android:label="@string/title_activity_more" >
+        </activity>
+        <activity
+            android:name=".SearchActivity"
+            android:label="@string/title_activity_search" >
+        </activity>
+        <activity
+            android:name=".LiveActivity"
+            android:label="@string/title_activity_live" 
+            android:theme="@android:style/Theme.Black.NoTitleBar.Fullscreen">
+        </activity>
+        <activity
+            android:name=".FeedBackActivity"
+            android:label="@string/title_activity_feed_back" >
+        </activity>
+        <activity
+            android:name=".LoginActivity"
+            android:label="@string/title_activity_login" >
+        </activity>
+    </application>
+
+</manifest>

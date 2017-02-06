@@ -1,0 +1,383 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/2015/!svn/ver/153/fmscms/Admin/Tpl/Index
+END
+backup_database.html
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/2015/!svn/ver/105/fmscms/Admin/Tpl/Index/backup_database.html
+END
+admin_rtmpserver.html
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/2015/!svn/ver/105/fmscms/Admin/Tpl/Index/admin_rtmpserver.html
+END
+admin_chargerecord.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/2015/!svn/ver/105/fmscms/Admin/Tpl/Index/admin_chargerecord.html
+END
+admin_deduct.html
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/2015/!svn/ver/105/fmscms/Admin/Tpl/Index/admin_deduct.html
+END
+admin_coindetail.html
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/2015/!svn/ver/105/fmscms/Admin/Tpl/Index/admin_coindetail.html
+END
+admin_beandetail.html
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/2015/!svn/ver/105/fmscms/Admin/Tpl/Index/admin_beandetail.html
+END
+admin_payagentbeandetail.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/2015/!svn/ver/105/fmscms/Admin/Tpl/Index/admin_payagentbeandetail.html
+END
+admin_onlineuser.html
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/2015/!svn/ver/105/fmscms/Admin/Tpl/Index/admin_onlineuser.html
+END
+admin_payagentpayrecord.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/2015/!svn/ver/105/fmscms/Admin/Tpl/Index/admin_payagentpayrecord.html
+END
+login.html
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/2015/!svn/ver/105/fmscms/Admin/Tpl/Index/login.html
+END
+public_map.html
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/2015/!svn/ver/105/fmscms/Admin/Tpl/Index/public_map.html
+END
+add_goodnum_bat.html
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/2015/!svn/ver/105/fmscms/Admin/Tpl/Index/add_goodnum_bat.html
+END
+edit_usersort.html
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/2015/!svn/ver/105/fmscms/Admin/Tpl/Index/edit_usersort.html
+END
+edit_announce.html
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/2015/!svn/ver/105/fmscms/Admin/Tpl/Index/edit_announce.html
+END
+admin_usersort.html
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/2015/!svn/ver/105/fmscms/Admin/Tpl/Index/admin_usersort.html
+END
+admin_announce.html
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/2015/!svn/ver/105/fmscms/Admin/Tpl/Index/admin_announce.html
+END
+admin_eggwinrecord.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/2015/!svn/ver/105/fmscms/Admin/Tpl/Index/admin_eggwinrecord.html
+END
+admin_richlevel.html
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/2015/!svn/ver/105/fmscms/Admin/Tpl/Index/admin_richlevel.html
+END
+view_liverecord.html
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/2015/!svn/ver/105/fmscms/Admin/Tpl/Index/view_liverecord.html
+END
+mainFrame.html
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/2015/!svn/ver/105/fmscms/Admin/Tpl/Index/mainFrame.html
+END
+admin_emccepayrecord.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/2015/!svn/ver/105/fmscms/Admin/Tpl/Index/admin_emccepayrecord.html
+END
+add_goodnum.html
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/2015/!svn/ver/105/fmscms/Admin/Tpl/Index/add_goodnum.html
+END
+admin_template.html
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/2015/!svn/ver/105/fmscms/Admin/Tpl/Index/admin_template.html
+END
+admin_deluser.html
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/2015/!svn/ver/105/fmscms/Admin/Tpl/Index/admin_deluser.html
+END
+admin_emcceagentpayrecord.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/2015/!svn/ver/105/fmscms/Admin/Tpl/Index/admin_emcceagentpayrecord.html
+END
+admin_gift.html
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/2015/!svn/ver/105/fmscms/Admin/Tpl/Index/admin_gift.html
+END
+admin_syspara.html
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/2015/!svn/ver/153/fmscms/Admin/Tpl/Index/admin_syspara.html
+END
+give_goodnum.html
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/2015/!svn/ver/105/fmscms/Admin/Tpl/Index/give_goodnum.html
+END
+findEmcees_ajaxFlag.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/2015/!svn/ver/105/fmscms/Admin/Tpl/Index/findEmcees_ajaxFlag.html
+END
+admin_emceelevel.html
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/2015/!svn/ver/105/fmscms/Admin/Tpl/Index/admin_emceelevel.html
+END
+admin_goodnum.html
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/2015/!svn/ver/105/fmscms/Admin/Tpl/Index/admin_goodnum.html
+END
+edit_server.html
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/2015/!svn/ver/105/fmscms/Admin/Tpl/Index/edit_server.html
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/2015/!svn/ver/105/fmscms/Admin/Tpl/Index/index.html
+END
+admin_cacheset.html
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/2015/!svn/ver/105/fmscms/Admin/Tpl/Index/admin_cacheset.html
+END
+admin_eggset.html
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/2015/!svn/ver/105/fmscms/Admin/Tpl/Index/admin_eggset.html
+END
+restore_database.html
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/2015/!svn/ver/105/fmscms/Admin/Tpl/Index/restore_database.html
+END
+admin_database.html
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/2015/!svn/ver/105/fmscms/Admin/Tpl/Index/admin_database.html
+END
+add_user.html
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/2015/!svn/ver/105/fmscms/Admin/Tpl/Index/add_user.html
+END
+edit_pwd.html
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/2015/!svn/ver/105/fmscms/Admin/Tpl/Index/edit_pwd.html
+END
+edit_adminuser.html
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/2015/!svn/ver/105/fmscms/Admin/Tpl/Index/edit_adminuser.html
+END
+admin_adminaddcoinrecord.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/2015/!svn/ver/105/fmscms/Admin/Tpl/Index/admin_adminaddcoinrecord.html
+END
+add_server.html
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/2015/!svn/ver/105/fmscms/Admin/Tpl/Index/add_server.html
+END
+admin_admin.html
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/2015/!svn/ver/105/fmscms/Admin/Tpl/Index/admin_admin.html
+END
+admin_giftsort.html
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/2015/!svn/ver/105/fmscms/Admin/Tpl/Index/admin_giftsort.html
+END
+add_adminuser.html
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/2015/!svn/ver/105/fmscms/Admin/Tpl/Index/add_adminuser.html
+END
+edit_emcceagentpayrecord.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/2015/!svn/ver/105/fmscms/Admin/Tpl/Index/edit_emcceagentpayrecord.html
+END
+addcointouser.html
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/2015/!svn/ver/105/fmscms/Admin/Tpl/Index/addcointouser.html
+END
+admin_signuser.html
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/2015/!svn/ver/105/fmscms/Admin/Tpl/Index/admin_signuser.html
+END
+admin_dirlist2.html
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/2015/!svn/ver/105/fmscms/Admin/Tpl/Index/admin_dirlist2.html
+END
+edit_goodnum.html
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/2015/!svn/ver/105/fmscms/Admin/Tpl/Index/edit_goodnum.html
+END
+edit_emccepayrecord.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/2015/!svn/ver/105/fmscms/Admin/Tpl/Index/edit_emccepayrecord.html
+END
+edit_file.html
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/2015/!svn/ver/105/fmscms/Admin/Tpl/Index/edit_file.html
+END
+add_usersort.html
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/2015/!svn/ver/105/fmscms/Admin/Tpl/Index/add_usersort.html
+END
+add_announce.html
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/2015/!svn/ver/105/fmscms/Admin/Tpl/Index/add_announce.html
+END
+edit_payagentpayrecord.html
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/2015/!svn/ver/105/fmscms/Admin/Tpl/Index/edit_payagentpayrecord.html
+END
+leftFrame.html
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/2015/!svn/ver/105/fmscms/Admin/Tpl/Index/leftFrame.html
+END
+admin_onlinepay.html
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/2015/!svn/ver/105/fmscms/Admin/Tpl/Index/admin_onlinepay.html
+END
+edit_user.html
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/2015/!svn/ver/153/fmscms/Admin/Tpl/Index/edit_user.html
+END
+admin_rollpic.html
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/2015/!svn/ver/105/fmscms/Admin/Tpl/Index/admin_rollpic.html
+END
+admin_redbagset.html
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/2015/!svn/ver/105/fmscms/Admin/Tpl/Index/admin_redbagset.html
+END
+admin_user.html
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/2015/!svn/ver/105/fmscms/Admin/Tpl/Index/admin_user.html
+END
+admin_emceeagentbeandetail.html
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/2015/!svn/ver/105/fmscms/Admin/Tpl/Index/admin_emceeagentbeandetail.html
+END
+admin_dirlist.html
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/2015/!svn/ver/105/fmscms/Admin/Tpl/Index/admin_dirlist.html
+END
